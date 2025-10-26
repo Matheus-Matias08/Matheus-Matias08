@@ -3,7 +3,8 @@
 - 🔭 Atualmente cursando Informática no Instituto Federal de Mato Grosso - Campus Rondonópolis
 - 🌱 Aprendendo Java, HTML, CSS e MySQL
 
-## Linguagens
+---
+### Linguagens
 <img 
     align="left" 
     alt="HTML"
@@ -29,9 +30,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
-### 📊 Estatísticas
+<br>
 
-<div align="left">
+## 📊 Estatísticas
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Matias08&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Matias08&layout=compact&theme=tokyonight"/>
 </div>
