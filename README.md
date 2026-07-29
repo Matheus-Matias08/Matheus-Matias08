@@ -1,8 +1,7 @@
 🖥 Matheus Matias
 
 - 🔭 Atualmente cursando Informática no Instituto Federal de Mato Grosso - Campus Rondonópolis
-- 🌱 Aprendendo Java, HTML, CSS e MySQL
-
+- 🌱 Estudando Desenvolvimento Web, Java e Banco de Dados
 ---
 ### Linguagens
 <img 
@@ -43,7 +42,7 @@
 ## 📊 Estatísticas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Matias08&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Matias08&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Matias08&layout=compact&theme=tokyonight"/>
 </div>
 
