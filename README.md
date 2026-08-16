@@ -47,7 +47,7 @@
 </p>
 
 ### Entre em contato: <br/>
-🖂 GMAIL matheus.matias@estudante.ifmt.edu.br <br/>
+🖂 GMAIL matheusmatias.contato@gmail.com <br/>
 
 
 
